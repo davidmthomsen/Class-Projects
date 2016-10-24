@@ -15,7 +15,7 @@ import javax.swing.ListModel;
 
 /**
  *
- * @author Kevin Coles
+ * @author David Thomsen
  */
 public class StockGUI extends javax.swing.JFrame {
 

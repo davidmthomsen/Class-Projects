@@ -6,7 +6,7 @@
 
 /**
  *
- * @author Kevin Coles
+ * @author David Thomsen
  */
 public class Stock {
     

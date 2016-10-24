@@ -15,7 +15,7 @@ import java.util.List;
  */
 /**
  *
- * @author Kevin Coles
+ * @author David Thomsen
  */
 public class StockIO {
 
